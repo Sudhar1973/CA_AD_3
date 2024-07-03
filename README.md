@@ -50,7 +50,7 @@ See [Contributing.md](/Contributing.md/)
 
 BSD 3-Clause License
 
-Copyright (c) 2019-2021, Charles Combes
+Copyright (c) 2019-2021, sudharsana kabilesh
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
